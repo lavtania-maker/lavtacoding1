@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #007bff;
+  --primary-color: #ff0000;
   --dark-grey: #333;
   --light-grey: #f4f4f4;
   --white: #ffffff;
@@ -75,7 +75,7 @@ input[type='email'], input[type='number'] {
 }
 
 .btn:hover {
-  background-color: #0056b3;
+  background-color: #cc0000;
 }
 
 .results-grid {
